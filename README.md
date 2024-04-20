@@ -20,3 +20,5 @@ Crafting a singular, multifaceted report catering to sales, marketing, finance, 
 10. **Holistic Metrics Integration:** Encompassing sales, marketing, finance, and supply chain metrics to provide a comprehensive view.
 
 This journey wasn't just about data; it was about transforming how AtliQ Hardwares harnesses its information wealth to drive success.
+
+Here's the link to the dashboard [BI 360 Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNDAyODliMDMtYzQwZS00ZTY2LTgyMzQtNzE5ZjkxYzgxNzY5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
