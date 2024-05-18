@@ -1,4 +1,4 @@
-# Business Insights 360 Dashboard for Finance, Sales, Marketing, and Supply Chain
+# Business Insights 360 Dashboard for Finance, Sales, Marketing, Supply Chain and Executive Views.
 
 ## Project Overview
 
